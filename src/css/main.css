@@ -16,8 +16,8 @@ body {
   color: #000000;
 }
 
-h1 {
-  @apply py-32 px-12
+.container {
+  @apply max-w-xl mx-auto p-4
 }
 
 @tailwind base;
